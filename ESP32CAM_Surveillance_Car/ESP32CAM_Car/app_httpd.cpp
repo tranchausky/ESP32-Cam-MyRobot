@@ -7,7 +7,7 @@
 #include "Arduino.h"
 
 extern int gpLb;
-extern int gpLf;
+extern int gpLf;index.html
 extern int gpRb;
 extern int gpRf;
 extern int gpLed;
